@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2022/6/8 7:33 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2022/6/8 8:25 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/uwenayoallain/top-github-users).
 
@@ -234,20 +234,6 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/gioele-santi">
-				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&u=f802eb07b451e01647b9c0ed8699a827e67fe95a&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino Republic</td>
-		<td>106</td>
-		<td>358</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
 			<a href="https://github.com/thu105">
 				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
 			</a><br/>
@@ -257,10 +243,10 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
 		<td>120</td>
-		<td>243</td>
+		<td>244</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/gcardi">
 				<img src="https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4" width="24" alt="Avatar of gcardi"> gcardi
@@ -274,7 +260,7 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/lmacchiavelli">
 				<img src="https://avatars.githubusercontent.com/u/1948896?s=72&v=4" width="24" alt="Avatar of lmacchiavelli"> lmacchiavelli
@@ -288,7 +274,7 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/clagenna">
 				<img src="https://avatars.githubusercontent.com/u/3160018?s=72&v=4" width="24" alt="Avatar of clagenna"> clagenna
@@ -302,7 +288,7 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/alexeylit88">
 				<img src="https://avatars.githubusercontent.com/u/89916447?s=72&u=6b6a8b221a02e8662a38bd981fd733800217d62d&v=4" width="24" alt="Avatar of alexeylit88"> alexeylit88
@@ -316,7 +302,7 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/CastFX">
 				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=aacf0aac508acfc291f69ad0b2d500c9f07fa6c5&v=4" width="24" alt="Avatar of CastFX"> CastFX
@@ -330,7 +316,7 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/mircotamburini">
 				<img src="https://avatars.githubusercontent.com/u/37830748?s=72&v=4" width="24" alt="Avatar of mircotamburini"> mircotamburini
@@ -342,6 +328,20 @@ There are `90 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>San Marino</td>
 		<td>21</td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/ACE27rsm">
+				<img src="https://avatars.githubusercontent.com/u/42338212?s=72&u=3eb79deedbcdcc95ba157ea57afeb2db6c687158&v=4" width="24" alt="Avatar of ACE27rsm"> ACE27rsm
+			</a><br/>
+			Daniele Salvatori
+		</td>
+		<td>3d Print </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>20</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>18</td>
