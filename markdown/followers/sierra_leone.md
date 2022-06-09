@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2022/5/30 6:15 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2022/6/9 2:05 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/uwenayoallain/top-github-users).
 
-There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on this list.
+There are `179 users`  in Sierra Leone. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -22,10 +22,10 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sierra_leone.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/uwenayoallain/top-github-users/blob/main/markdown/public_contributions/sierra_leone.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sierra_leone.md">Top Users By Total Contributions</a>
+			<a href="https://github.com/uwenayoallain/top-github-users/blob/main/markdown/total_contributions/sierra_leone.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Followers</strong>
@@ -38,57 +38,57 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&app_id=291494419107518&redirect_uri=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone">
+			<a href="https://t.me/share/url?url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://vk.com/share.php?url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -115,7 +115,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>167</td>
+		<td>174</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>256 Llc </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>54</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Remote Front-end And Full-stack<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/DevAmkam">DevAmkam</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>36</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -164,10 +164,10 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 			</a><br/>
 			Chinedum Roland Eke
 		</td>
-		<td>Comsoft Solutions Limited </td>
-		<td>No Twitter Username</td>
+		<td>Imo Tech Solutions </td>
+		<td><a href="https://twitter.com/EkeRoland">EkeRoland</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>23</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Byte Limited </td>
 		<td>No Twitter Username</td>
 		<td>Freetown. Sierra Leone</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Https://guchietech.c </td>
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Ingletech </td>
 		<td><a href="https://twitter.com/ulricayodemeji_">ulricayodemeji_</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -276,6 +276,19 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/joshuacharley">
+				<img src="https://avatars.githubusercontent.com/u/34540432?s=72&u=65895297cfdbd24e53dbef3c29f9e221eeae6cb5&v=4" width="24" alt="Avatar of joshuacharley"> joshuacharley
+			</a><br/>
+			Joshuascharley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sierra leone freetown</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/Mosesvb">
 				<img src="https://avatars.githubusercontent.com/u/9251548?s=72&u=65827f76e6062403d7560177c11e17d96415bf08&v=4" width="24" alt="Avatar of Mosesvb"> Mosesvb
 			</a><br/>
@@ -287,7 +300,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/BarrieLAJ">
 				<img src="https://avatars.githubusercontent.com/u/41100890?s=72&u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4" width="24" alt="Avatar of BarrieLAJ"> BarrieLAJ
@@ -300,20 +313,20 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
-			<a href="https://github.com/joshuacharley">
-				<img src="https://avatars.githubusercontent.com/u/34540432?s=72&u=65895297cfdbd24e53dbef3c29f9e221eeae6cb5&v=4" width="24" alt="Avatar of joshuacharley"> joshuacharley
+			<a href="https://github.com/sahrmohamed">
+				<img src="https://avatars.githubusercontent.com/u/95554653?s=72&u=2fcb9cd16091cab1eb164ccd090866bb1c50758b&v=4" width="24" alt="Avatar of sahrmohamed"> sahrmohamed
 			</a><br/>
-			Joshuascharley
+			Sahr Mohamed
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sierra leone freetown</td>
+		<td><a href="https://twitter.com/moh_sahr">moh_sahr</a></td>
+		<td>Freetown, Sierra Leone</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Mufti-ML">
 				<img src="https://avatars.githubusercontent.com/u/67768584?s=72&u=910a68d72d74e92f6bc0088b48bbc012aac63caf&v=4" width="24" alt="Avatar of Mufti-ML"> Mufti-ML
@@ -326,7 +339,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/Hindolorogers">
 				<img src="https://avatars.githubusercontent.com/u/54672476?s=72&u=8a8e576a74ead257b8a13dd1b7fbe57d5ce95217&v=4" width="24" alt="Avatar of Hindolorogers"> Hindolorogers
@@ -339,7 +352,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/JamesCombey">
 				<img src="https://avatars.githubusercontent.com/u/43726436?s=72&u=dcb825fa5eabe69f0d8b7e5eab1b9d435924439b&v=4" width="24" alt="Avatar of JamesCombey"> JamesCombey
@@ -352,7 +365,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/gkaplan">
 				<img src="https://avatars.githubusercontent.com/u/545388?s=72&v=4" width="24" alt="Avatar of gkaplan"> gkaplan
@@ -365,33 +378,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/sahrmohamed">
-				<img src="https://avatars.githubusercontent.com/u/95554653?s=72&u=2fcb9cd16091cab1eb164ccd090866bb1c50758b&v=4" width="24" alt="Avatar of sahrmohamed"> sahrmohamed
-			</a><br/>
-			Sahr Mohamed
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/moh_sahr">moh_sahr</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>22</td>
-		<td>
-			<a href="https://github.com/LinuxFofinspiron">
-				<img src="https://avatars.githubusercontent.com/u/56222967?s=72&v=4" width="24" alt="Avatar of LinuxFofinspiron"> LinuxFofinspiron
-			</a><br/>
-			Mohamed Fofanah
-		</td>
-		<td>Sierraiot </td>
-		<td>No Twitter Username</td>
-		<td>Freetown Sierra leone</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>23</td>
 		<td>
 			<a href="https://github.com/muctarr-rahim">
 				<img src="https://avatars.githubusercontent.com/u/55337140?s=72&u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4" width="24" alt="Avatar of muctarr-rahim"> muctarr-rahim
@@ -401,6 +388,19 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Easy Solar </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/LinuxFofinspiron">
+				<img src="https://avatars.githubusercontent.com/u/56222967?s=72&v=4" width="24" alt="Avatar of LinuxFofinspiron"> LinuxFofinspiron
+			</a><br/>
+			Mohamed Fofanah
+		</td>
+		<td>Sierraiot </td>
+		<td>No Twitter Username</td>
+		<td>Freetown Sierra leone</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1472,19 +1472,6 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/Sandy12444">
-				<img src="https://avatars.githubusercontent.com/u/40840399?s=72&u=86aa55239ec3b0379d96458c36d8c831b7ba08fd&v=4" width="24" alt="Avatar of Sandy12444"> Sandy12444
-			</a><br/>
-			Tamba M. Sandy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tamba_sandy">tamba_sandy</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
 			<a href="https://github.com/360intelligence">
 				<img src="https://avatars.githubusercontent.com/u/75613705?s=72&u=6329dd01959a0ddd28960668898d91316a90e613&v=4" width="24" alt="Avatar of 360intelligence"> 360intelligence
 			</a><br/>
@@ -1496,7 +1483,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/gibokanu">
 				<img src="https://avatars.githubusercontent.com/u/52385387?s=72&v=4" width="24" alt="Avatar of gibokanu"> gibokanu
@@ -1509,20 +1496,20 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
-			<a href="https://github.com/Christi-Science">
-				<img src="https://avatars.githubusercontent.com/u/53057024?s=72&v=4" width="24" alt="Avatar of Christi-Science"> Christi-Science
+			<a href="https://github.com/Sandy12444">
+				<img src="https://avatars.githubusercontent.com/u/40840399?s=72&u=86aa55239ec3b0379d96458c36d8c831b7ba08fd&v=4" width="24" alt="Avatar of Sandy12444"> Sandy12444
 			</a><br/>
-			No Name
+			Tamba M. Sandy
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Freetown, Sierra Leone.</td>
+		<td><a href="https://twitter.com/tamba_sandy">tamba_sandy</a></td>
+		<td>Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/anthonyabdulai">
 				<img src="https://avatars.githubusercontent.com/u/67685763?s=72&u=9fa288d2647d5800b23684b1f123b2f21ee7b73e&v=4" width="24" alt="Avatar of anthonyabdulai"> anthonyabdulai
@@ -1535,7 +1522,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/MohamedAlieBangura">
 				<img src="https://avatars.githubusercontent.com/u/51079419?s=72&u=53df66017907726031e1fc2f8f09c5c820aca7ae&v=4" width="24" alt="Avatar of MohamedAlieBangura"> MohamedAlieBangura
@@ -1548,7 +1535,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/vickydesh">
 				<img src="https://avatars.githubusercontent.com/u/35602856?s=72&u=7062f046282e8a88cfb46be2f8989ca3fe042e1e&v=4" width="24" alt="Avatar of vickydesh"> vickydesh
@@ -1561,7 +1548,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/Francis-Samba">
 				<img src="https://avatars.githubusercontent.com/u/68713750?s=72&v=4" width="24" alt="Avatar of Francis-Samba"> Francis-Samba
@@ -1571,6 +1558,19 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sierra Leone, freetown</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/Christi-Science">
+				<img src="https://avatars.githubusercontent.com/u/53057024?s=72&v=4" width="24" alt="Avatar of Christi-Science"> Christi-Science
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone.</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1879,57 +1879,57 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&app_id=291494419107518&redirect_uri=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone">
+			<a href="https://t.me/share/url?url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://vk.com/share.php?url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sierra_leone.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Sierra%20Leone&url=https://github.com/uwenayoallain/top-github-users/blob/main/markdown/followers/sierra_leone.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -1943,7 +1943,7 @@ There are `178 users`  in Sierra Leone. You need at least `0 followers` to be on
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [uwenayoallain/top-github-users-action](https://github.com/uwenayoallain/top-github-users-action)
+- Repository - [uwenayoallain/top-github-users](https://github.com/uwenayoallain/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
